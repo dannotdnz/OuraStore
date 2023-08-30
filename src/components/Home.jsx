@@ -87,7 +87,7 @@ function Navbar() {
   
   function Content() {
     return (
-      <div className="d-flex flex-column h-100 min-vh-100 text-white bg-dark" style={{ backgroundColor: "#2d3238"}}>
+      <div className="d-flex flex-column w-full h-100 min-vh-100 text-white bg-dark" style={{ backgroundColor: "#2d3238"}}>
         <div className="container" style={{ marginTop: '100px' }}>
           <div className="row d-none d-lg-block">
             <div className="row d-none d-lg-block">
